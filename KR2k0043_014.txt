@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:40.243730
+#+DATE: 2019-03-29 20:52:43.283954
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR2k0043_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -1120,7 +1120,7 @@
 永善鄉自樂平入弋陽路剌門嶺在金山鄉自樂平¶
 入德興驛遞所經¶
 ¶
-　　夕陽嶺在浮梁縣東一百二十里相傳藍采和吹&KR0327;於¶
+　　夕陽嶺在浮梁縣東一百二十里相傳藍采和吹笛於¶
 <pb:KR2k0043_WYG_014-49b>¶
 此旁為新嶺巖嶺縣北一百六十里有梁和嶺小北¶
 港水源於此乃徽池之交¶

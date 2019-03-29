@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:41.293199
+#+DATE: 2019-03-29 20:52:44.497120
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 81
 <pb:KR2k0043_WYG_081-1a>¶
 　　欽定四庫全書¶
@@ -733,7 +733,7 @@
 共嫉之駕旋有銀章之賜(直𨽻浙江名宦志)¶
 ¶
 　　劉桐永新人𢎞治鄉舉知泰順持法嚴平聽斷明允悉¶
-民隱省繁費尤加意士𩔗嚴斥羣小勾攝無一卒下¶
+民隱省繁費尤加意士類嚴斥羣小勾攝無一卒下¶
 鄉民頼以安(浙江名宦志)¶
 ¶
 　　劉玉字咸栗萬安人𢎞治進士授輝縣知縣發粟賑饑¶

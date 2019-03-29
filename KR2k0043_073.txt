@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:41.173427
+#+DATE: 2019-03-29 20:52:44.348523
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 73
 <pb:KR2k0043_WYG_073-1a>¶
 　　欽定四庫全書¶
@@ -1003,7 +1003,7 @@
 内壇坫蔚興斯陛與里中萬美叔陳士業徐巨源甘¶
 禹符鄧左之余小星李平叔並主文社四方英俊莫¶
 不望走其門學使者至江右必與之上下議論交若¶
-等夷體素羸病消渴卒年三十六子&KR0435;順治辛卯舉¶
+等夷體素羸病消渴卒年三十六子𢋫順治辛卯舉¶
 <pb:KR2k0043_WYG_073-51b>¶
 人(白志)¶
 ¶

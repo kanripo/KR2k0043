@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:41.367758
+#+DATE: 2019-03-29 20:52:44.595079
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 86
 <pb:KR2k0043_WYG_086-1a>¶
 　　欽定四庫全書¶
@@ -63,7 +63,7 @@
 　　曽易占字不疑致堯子以䕃補太廟齋郎為宜黄臨川¶
 二縣尉舉三法司中進士第改武勝軍節度掌書記¶
 不往用舉者遷太子中允太常博士知如臯玉山二¶
-縣被誣歸卒子六人&KR1262;鞏牟宰布肇始易占以文章¶
+縣被誣歸卒子六人曄鞏牟宰布肇始易占以文章¶
 <pb:KR2k0043_WYG_086-3b>¶
 有名既仕不合即自放為文章而時議十卷尤行於¶
 世(同上)¶

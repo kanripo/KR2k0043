@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:41.997724
+#+DATE: 2019-03-29 20:52:45.172645
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 120
 <pb:KR2k0043_WYG_120-1a>¶
 　　欽定四庫全書¶
@@ -19,7 +19,7 @@
 　　題為覆查荒蕪據實確報仰祈¶
 ¶
 　　聖鑒事該(臣)看得江右地方夙稱土瘠民貧兼之連年兵¶
-燹加以天災流行死亡相枕腴産抛荒其極𢡖極殘之¶
+燹加以天災流行死亡相枕腴産抛荒其極慘極殘之¶
 <pb:KR2k0043_WYG_120-1b>¶
 狀已經前撫臣備悉陳請無容贅矣惟是錢糧係朝廷¶
 之額課而土田實錢糧之根本必野無不闢之土斯國¶

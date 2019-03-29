@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:41.005298
+#+DATE: 2019-03-29 20:52:44.157379
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 63
 <pb:KR2k0043_WYG_063-1a>¶
 　　欽定四庫全書¶
@@ -661,7 +661,7 @@
 ¶
 <pb:KR2k0043_WYG_063-30a>¶
 　　袁延慶天禧初通判袁州有能名刺史李龜從異待之¶
-州務多委決復舊渠以備火災立疏泉亭𠜇石記其¶
+州務多委決復舊渠以備火災立疏泉亭刻石記其¶
 事(林志)¶
 ¶
 　　王揆以著作佐郎知分宜縣景祐丙子夏大雨水公私¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:40.260932
+#+DATE: 2019-03-29 20:52:43.301789
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR2k0043_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -1138,7 +1138,7 @@
 瀼而清深¶
 ¶
 　　烏龍潭凡三在牯牛嶺北邃谷中中兩潭皆髙數百丈¶
-有蟲如鮎而黒長三四寸曰龍師下潭稍平𡗝其旁¶
+有蟲如鮎而黒長三四寸曰龍師下潭稍平夷其旁¶
 有大石曰拜石東林寺祭龍之所¶
 ¶
 　　白龍潭在廬山天池寺南甞有白龍變化禱之即應¶

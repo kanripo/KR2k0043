@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:41.353790
+#+DATE: 2019-03-29 20:52:44.579995
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 85
 <pb:KR2k0043_WYG_085-1a>¶
 　　欽定四庫全書¶
@@ -995,7 +995,7 @@
 　　周文煒字赤之本金谿人生於大梁生平孤行已意屹¶
 立不移曰吾固坦然者也因自號坦然入南雍就選¶
 得暨陽簿謝官歸築室秦淮曰壯為五洩遊人老作¶
-秦淮釣叟於願足矣子亮工號櫟園庚辰進士𫾻歴¶
+秦淮釣叟於願足矣子亮工號櫟園庚辰進士敡歴¶
 中外二十年能文章尤愛士故人士咸嚮往之(江南¶
 流寓志)¶
 ¶

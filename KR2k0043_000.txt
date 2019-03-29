@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 江西通志
-#+DATE: 2019-03-29 20:52:40.052998
+#+DATE: 2019-03-29 20:52:43.036332
 #+PROPERTY: ID KR2k0043
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2k0043_WYG_000-1a>¶
 　　︵字位過密　無法显示︶(臣)謝旻等謹¶
@@ -447,7 +447,7 @@
 　　(臣)等謹案江西通志一百六十二卷¶
 ¶
 　　國朝江西巡撫都察院右副都御史謝旻等撰¶
-江西省志創於明嘉靖間&KR0257;政林庭㭿其後¶
+江西省志創於明嘉靖間𠫭政林庭㭿其後¶
 乆未纂輯舊聞放失至¶
 ¶
 　　本朝康熙二十二年巡撫安世鼎始續修之康¶
